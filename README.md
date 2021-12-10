@@ -34,7 +34,7 @@ def gcd():
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+![gcd of two number](https://github.com/jithendra2004/GCD-of-two-numbers/blob/main/gcd.PNG?raw=true)
 
 ![output](https://github.com/jithendra2004/GCD-of-two-numbers/blob/main/gcd%20ot.jpeg?raw=true)
 
